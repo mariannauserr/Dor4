@@ -4,8 +4,7 @@ public class Main {
         int sumOfFirstRefill = 100;
         int sumOfSecondRefill = 1100;
         int bonus = sumOfSecondRefill / 100;
-        System.out.println("Итоговый счет1");
-        System.out.println((primaryBalance + sumOfFirstRefill) + " руб ");
+
         System.out.println("Итоговый счет2");
         System.out.println((primaryBalance + sumOfSecondRefill + bonus) + " руб ");
 
